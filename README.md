@@ -1,1 +1,1 @@
-# disclaimer_for_SL
+This is a personal simple website for a project.
